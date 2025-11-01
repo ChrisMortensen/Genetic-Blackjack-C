@@ -23,4 +23,4 @@ The agent evolves its strategy over generations, aiming to maximize its earnings
    ```
 
 ## Conclusion
-This project demonstrates the application of genetic algorithms in optimizing strategies for playing blackjack.
+This project demonstrates how genetic algorithms can optimize their way to the optimal blackjack playing strategy.
