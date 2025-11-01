@@ -1,3 +1,4 @@
+# Genetic Algorithm Blackjack Agent
 A BSc semester project that implements a Machine Learning agent in C utilizing genetic algorithms and simulations to formulate the optimal blackjack playing strategy.
 
 The agent evolves its strategy over generations, aiming to maximize its earnings through simulated gameplay. Allowing for changes in parameters such as population size, mutation rate, and amount of hands played, influencing the agent's performance and runtime.
